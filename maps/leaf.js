@@ -12,8 +12,8 @@ L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 var myURL = jQuery( 'script[src$="leaf.js"]' ).attr( 'src' ).replace( 'leaf.js', '' )
 
 var myIcon = L.icon({
-  iconUrl: myURL + 'https://raw.githubusercontent.com/Fiddlewood/fiddlewood.github.io/master/maps/images/pin24.png',
-  iconRetinaUrl: myURL + 'https://raw.githubusercontent.com/Fiddlewood/fiddlewood.github.io/master/maps/images/pin48.png',
+  iconUrl: myURL + 'images/pin24.png',
+  iconRetinaUrl: myURL + 'images/pin48.png',
   iconSize: [29, 24],
   iconAnchor: [9, 21],
   popupAnchor: [0, -14]
