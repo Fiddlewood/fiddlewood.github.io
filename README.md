@@ -1,4 +1,4 @@
-A ZeroWaste Map with the help of leatfleat and OpenStreetMap  
+A Map of ZeroWaste Shops in Germany, with the help of leatfleat and OpenStreetMap  
 Main source by Andy Maloney.
 
 
