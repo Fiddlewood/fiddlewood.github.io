@@ -1,0 +1,86 @@
+markers = [
+   {
+     "name": "Unverpackt Aschaffenburg",
+     "url": "https://www.facebook.com/Unverpackt-Aschaffenburg-249872349096502/",
+     "lat": 49.975445,
+     "lng": 9.144985
+   },
+   {
+     "name": "RutaNatur",
+     "url": "http://rutanatur.de/",
+     "lat": 48.368519,
+     "lng": 10.890767
+   },
+   {
+     "name": "Unverpackt Bad Kreuznach",
+     "url": "http://www.unverpackt-badkreuznach.de/",
+     "lat": 49.840603,
+     "lng": 7.861269
+   },
+   {
+     "name": "Bio Provinz",
+     "url": "https://www.facebook.com/bio.provinz.3",
+     "lat": 52.201664,
+     "lng": 8.788379
+   },
+   {
+     "name": "Oise Ohne",
+     "url": "https://www.facebook.com/Oisohne/?ref=page_internal",
+     "lat": 47.762992,
+     "lng": 11.562505
+   },
+   {
+     "name": "Unverpackt Bamberg",
+     "url": "https://www.facebook.com/UnverpacktBamberg/",
+     "lat": 49.898628,
+     "lng": 10.896142
+   },
+   {
+     "name": "Original Unverpackt GmbH",
+     "url": "http://original-unverpackt.de/",
+     "lat": 52.497791,
+     "lng": 13.430112
+   },
+   {
+     "name": "Der Sache wegen",
+     "url": "https://www.facebook.com/dersachewegen",
+     "lat": 52.544258,
+     "lng": 13.417890
+   },
+   {
+     "name": "Losgelöst - Der Unverpackt-Bioladen",
+     "url": "https://www.facebook.com/LOSGELOESTUnverpacktBielefeld/",
+     "lat": 52.027462,
+     "lng": 8.521724
+   },
+   {
+     "name": "Bochum Unverpackt - bioku, der Bio- & Kulturmarkt",
+     "url": "https://www.facebook.com/pg/BIOKUBochum/about/?ref=page_internal",
+     "lat": 51.486641,
+     "lng": 7.214481
+   },
+   {
+     "name": "Allerlei verpackungsfrei",
+     "url": "https://www.allerlei-verpackungsfrei.de/",
+     "lat": 51.523937,
+     "lng": 6.927294
+   },
+   {
+     "name": "Wunderbar Unverpackt",
+     "url": "http://www.wunderbar-unverpackt.de/",
+     "lat": 52.268890,
+     "lng": 10.529319
+   },
+   {
+     "name": "SelFair Unverpackt",
+     "url": "https://www.facebook.com/selfairbremen/",
+     "lat": 53.070545,
+     "lng": 8.833030
+   },
+   {
+     "name": "L' Epicerie Bio Unverpackt",
+     "url": "https://www.facebook.com/EpicerieBioUnverpacktBremen/",
+     "lat": 53.071728,
+     "lng": 8.800558
+   }
+];
